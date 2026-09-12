@@ -15,7 +15,7 @@ future: true
 
 title: Unpacked # the main title
 
-tagline: notes on malware, phishing & reverse engineering and other cyber crime # it will display as the subtitle
+tagline: notes on malware, phishing & reverse engineering
 
 description: >- # used by seo meta and the atom feed
   Hands-on malware analysis, phishing teardowns, and reverse engineering.
