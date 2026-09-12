@@ -1,6 +1,6 @@
 ---
 title: "A Fake TikTok Shop Served Me a Real TikTok, With a Packer Bolted On"
-date: 2026-09-12 20:00:00 +1000
+date: 2026-09-11 20:00:00 +1000
 categories: [Malware Analysis, Android]
 tags: [android, malware, reverse-engineering, tiktok, packer, infostealer, threat-intel]
 description: An AU-targeted fake TikTok Shop handed out a repackaged TikTok APK with a native DEX-packer hidden inside. Here's the full teardown, including the bit I couldn't crack.
