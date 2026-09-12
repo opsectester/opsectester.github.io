@@ -1,0 +1,20 @@
+---
+---
+
+@use 'abstracts/variables' with (
+  $theme: '{{ site.theme_mode }}'
+);
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* Unpacked — mint accent to match the logo */
+:root,
+html[data-mode="dark"] {
+  --link-color: #5ad1a8;
+  --link-underline-color: #3a8f74;
+}
